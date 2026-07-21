@@ -5,7 +5,7 @@
 # BCGX_Gen_AI_Virtual_Job_Internship
 Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 
-## Task 1: Data Extraction and Initial Analysis  
+## [Task 1: Data Extraction and Initial Analysis](Task_1_Data_Extraction_and_Initial_Analysis.ipynb)  
 Google Colab Notebook for task 1  
 
 ## [Task 2: Developing an AI Driven Financial ChatBot Prototype](Task_2_Developing_a_AI_driven_Financial_Chatbot_.ipynb)   
