@@ -7,7 +7,8 @@ Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 
 ## Task 1: Data Extraction and Initial Analysis  
 Google Colab Notebook for task 1  
-## Task 2: Developing an AI Driven Financial ChatBot Prototype   
-AI_driven_Financial_ChatBot_Prototype Python Application
 
-AI_driven_Financial_ChatBot_Prototype Python Application Testing     
+## [Task 2: Developing an AI Driven Financial ChatBot Prototype](Task_2_Developing_a_AI_driven_Financial_Chatbot_.ipynb)   
+1. AI_driven_Financial_ChatBot_Prototype Python Application
+
+2. AI_driven_Financial_ChatBot_Prototype Python Application Testing     
